@@ -1,5 +1,5 @@
 <html>
-<section><p>paragraph one</p></section><p>paragraph two</p>
+<section>
 <head>
   <meta charset="utf-8" />
   <title>App Help Desk</title>
@@ -56,6 +56,8 @@
                 </div>
 
               <?php } ?>
+
+              
 
               <button class="btn btn-lg btn-info btn-block" type="submit">Entrar</button>
          
