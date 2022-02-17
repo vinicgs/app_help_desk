@@ -1,7 +1,6 @@
 # Projeto  App Help Desk, criado em php html e bootstrap.
 
 #### Autenticação de usuários e controle de acesso.
-#### Criação e leitura do arquivo de chamada.
 
 
 <div>
